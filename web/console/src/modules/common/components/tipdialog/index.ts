@@ -1,1 +1,0 @@
-export { TipDialog } from './TipDialog';

@@ -1,1 +1,0 @@
-export { TabSelector, TabSelectorProps, TabItem } from './TabSelector';
